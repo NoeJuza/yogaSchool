@@ -1,0 +1,23 @@
+{
+  "name": "yogaschool",
+  "version": "1.0.0",
+  "description": "Express web serv for a yoga school",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "keywords": [
+    "yoga",
+    "school",
+    "js",
+    "node",
+    "express",
+    "auth"
+  ],
+  "author": "NoeJuza",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "path": "^0.12.7"
+  }
+}
